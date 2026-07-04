@@ -1,4 +1,4 @@
 github.com/mb0/diff v0.0.0-20131118162322-d8d9a906c24d h1:eAS2t2Vy+6psf9LZ4T5WXWsbkBt3Tu5PWekJy5AGyEU=
 github.com/mb0/diff v0.0.0-20131118162322-d8d9a906c24d/go.mod h1:3YMHqrw2Qu3Liy82v4QdAG17e9k91HZ7w3hqlpWqhDo=
-golang.org/x/net v0.35.0 h1:T5GQRQb2y08kTAByq9L4/bz8cipCdA8FbRTXewonqY8=
-golang.org/x/net v0.35.0/go.mod h1:EglIi67kWsHKlRzzVMUD93VMSWGFOMSZgxFjparz1Qk=
+golang.org/x/net v0.55.0 h1:bcvxaJn3e1U6InsFWt1JUq1aSjnRxLzT2rtD2KfkDF8=
+golang.org/x/net v0.55.0/go.mod h1:L5U2KuzuOe1lY7Z+aWVIKK6qEeJXnXV9yzGA+WCHJww=
